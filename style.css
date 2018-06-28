@@ -24,8 +24,8 @@ header.startup h1{
 	font-size: 2rem;
 }
 .btn-primary{
-	border-radius: 300px;
-	font-weight: 700 ;
+	border-radius: 100px;
+	font-weight: 700;
 	font-family: : sans-serif;
 	background-color:orange;
 	border-color: red;
