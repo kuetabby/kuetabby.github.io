@@ -23,10 +23,12 @@ header.startup hr{
 header.startup h1{
 	font-size: 2rem;
 }
-.btn-primary{
-	border-radius: 100px;
+.btn{
+	border-radius: 300px;
 	font-weight: 700;
 	font-family: : sans-serif;
+}
+.btn-primary{
 	background-color:orange;
 	border-color: red;
 }
@@ -34,4 +36,8 @@ header.startup h1{
 	background-color: #90A437;
 	border-color: #303D74;
 	border-width: 3px;
+	cursor: pointer;
+}
+.btn-xl {
+  padding: 1rem 2rem; 
 }
