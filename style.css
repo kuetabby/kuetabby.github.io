@@ -20,9 +20,10 @@ hr {
 }
 
 header.startup{
-  background-image: url('hearder.jpg');
+  background-position: center;
+  background-image: url("header.jpg");
   background-size: cover;
-  height: 100%
+  height: 100%;
 }
 
 header.startup hr {
