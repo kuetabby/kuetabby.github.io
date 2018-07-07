@@ -19,13 +19,15 @@ hr {
   color: rgba(255, 255, 255, 0.8); 
 }
 
+header.startup{
+  background-image: url('hearder.jpg');
+  background-size: cover;
+  height: 100%
+}
 
 header.startup hr {
   margin-top: 200px;
   margin-bottom: 30px; 
-  background-image: url('hearder.jpg');
-  background-size: cover;
-  height: 100%
 }
 
 header.startup h1 {
